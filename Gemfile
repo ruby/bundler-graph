@@ -2,6 +2,7 @@
 
 source "https://rubygems.org"
 
+gem "irb"
 gem "rake"
 gem "rspec"
 gem "ruby-graphviz"
